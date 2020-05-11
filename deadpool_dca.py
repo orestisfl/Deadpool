@@ -32,7 +32,7 @@ import subprocess
 import math
 
 # Adapt paths to your setup if needed:
-tracergrind_exec='/usr/local/bin/valgrind'
+tracergrind_exec='valgrind'
 tracerpin_exec='/usr/local/bin/Tracer'
 
 def processinput(iblock, blocksize):
